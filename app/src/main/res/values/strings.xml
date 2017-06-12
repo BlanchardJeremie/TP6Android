@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TP6Android</string>
+    <string name="texteapp">Bonjour monde</string>
 </resources>
